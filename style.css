@@ -1,0 +1,64 @@
+.heading{
+	background-color: powderblue;
+	border: 2px black solid;
+	text-align: center;
+}
+.h1{
+	font-family: verdana;
+}
+.p1{
+	font-family: garamond;
+}
+.before{
+        background-color: coral;
+		border: 2px black solid;
+		text-align: center;
+}
+.h2{
+	font-family: Georgia;
+}
+.p2{
+	font-family: "Plus Jakarta Sans",Trebuchet MS,sans-serif;
+	font-weight:700;
+}
+.p3{
+    font-family: "Plus Jakarta Sans",Trebuchet MS,sans-serif;
+    font-weight:700;
+}
+.p4{
+    font-family: "Plus Jakarta Sans",Trebuchet MS,sans-serif;
+    font-weight:700;
+}
+.tab{
+     background-color: pink;
+	 border: 5px black solid;
+	 text-align: center;
+}
+.during{
+	background-color: #228b22;
+	border: 2px solid black;
+	text-align: center;
+}
+.p5{
+	color: white;
+}
+.p6{
+	color: white;
+}
+.p7{
+	color: white;
+}
+.inde{
+	border: 2px black solid;
+	text-align: center;
+}
+.end{
+	background-color: yellow;
+	border: 2px solid black;
+	text-align: center;
+}
+.rickroll{
+	background-color: black;
+	border: 2px solid black;
+	text-align: center;
+}
